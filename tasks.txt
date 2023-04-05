@@ -1,6 +1,12 @@
-3 redirections
-1 setup the environment
-4 manipulations
-2 basic terminal operations
-2 basic terminal operations
-2 basic terminal operations
+123
+456
+789
+second sentence
+third sentence
+this is the first sentence
+123
+third
+first
+first
+second sentence
+second sentence
